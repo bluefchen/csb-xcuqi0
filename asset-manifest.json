@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bluefchen.github.io/csb-xcuqi0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bluefchen.github.io/csb-xcuqi0/static/js/main.7f5c58b9.chunk.js",
+    "main.js.map": "https://bluefchen.github.io/csb-xcuqi0/static/js/main.7f5c58b9.chunk.js.map",
+    "runtime-main.js": "https://bluefchen.github.io/csb-xcuqi0/static/js/runtime-main.8a8b1a19.js",
+    "runtime-main.js.map": "https://bluefchen.github.io/csb-xcuqi0/static/js/runtime-main.8a8b1a19.js.map",
+    "static/js/2.d1be780a.chunk.js": "https://bluefchen.github.io/csb-xcuqi0/static/js/2.d1be780a.chunk.js",
+    "static/js/2.d1be780a.chunk.js.map": "https://bluefchen.github.io/csb-xcuqi0/static/js/2.d1be780a.chunk.js.map",
+    "index.html": "https://bluefchen.github.io/csb-xcuqi0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bluefchen.github.io/csb-xcuqi0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d1be780a.chunk.js.LICENSE.txt": "https://bluefchen.github.io/csb-xcuqi0/static/js/2.d1be780a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a8b1a19.js",
+    "static/js/2.d1be780a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7f5c58b9.chunk.js"
+  ]
+}
